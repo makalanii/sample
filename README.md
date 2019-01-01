@@ -8,6 +8,10 @@
 * Reproducible Research
 * Statistical Inference
 * Regression Models
+* Practical Machine Learning
+* Developing Data Products
+* Data Science Capstone
+
 
 
 
