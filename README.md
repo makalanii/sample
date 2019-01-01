@@ -1,9 +1,15 @@
-## This is a secondary heading
-### This is a tertiary heading
+## John Hopkins University: Data Science
+### The courses comprising the Data Science Specialisation are:
 
-*1 Data Scientists Toolbox
-*2 Getting and Cleaning Data
-*3 Exploratory Data Analysis
+* Data Scientists Toolbox
+* R Programming
+* Getting and Cleaning Data
+* Exploratory Data Analysis
+* Reproducible Research
+* Statistical Inference
+* Regression Models
+
+
 
 
 
