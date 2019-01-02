@@ -12,6 +12,10 @@
 * Developing Data Products
 * Data Science Capstone
 
+#Git is easy! Git is fun! Thank you Linus!
+
+
+
 
 
 
